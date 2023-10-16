@@ -1,3 +1,5 @@
 *.idea
-./template
+/template
 *.toml
+/public
+/go.sum
